@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The jus divinum of presbyterie. Or, A treatise evidently proving by Scripture; all true ministers or embassadours of the Gospell to be rightly called divines or, Jure divino.</title>
+            <author>Writer, Clement, fl. 1627-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67180</idno>
+            <idno type="STC">Wing W3724</idno>
+            <idno type="STC">ESTC R220188</idno>
+            <idno type="EEBO-CITATION">99831611</idno>
+            <idno type="PROQUEST">99831611</idno>
+            <idno type="VID">36076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The jus divinum of presbyterie. Or, A treatise evidently proving by Scripture; all true ministers or embassadours of the Gospell to be rightly called divines or, Jure divino.</title>
+                  <author>Writer, Clement, fl. 1627-1658.</author>
+               </titleStmt>
+               <extent>[2], 39, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, in the year, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Clement Writer by Wing.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on p. 1 reads: Certain probable collections from Scripture; proving the divine right of presbyterie.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Clergy --  Office --  Early works to 1800.</term>
+               <term>Ordination --  Church of England --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36076:1"/>
+            <pb n="2" facs="tcp:36076:1"/>
+            <p>THE <hi>I<g ref="char:V">Ʋ</g>S DIVIN<g ref="char:V">Ʋ</g>M</hi> OF PRESBYTERIE. OR, A TREATISE <hi>Evidently proving by Scripture;</hi> All true Miniſters or Embaſſa<g ref="char:EOLhyphen"/>dours of the Goſpell to be rightly called Divines; OR, <hi>J<g ref="char:V">Ʋ</g>RE DIVINO.</hi>
+            </p>
+            <q>
+               <bibl>Hebr. 5. 4.</bibl> 
+               <hi>No man taketh this honour unto himſelf, but he that is called of God, as was</hi> Aaron.</q>
+            <p>
+               <hi>PRINTED,</hi> In the Year, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:36076:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:36076:2"/>
+            <head>Certain probable Collections <hi>From Scripture;</hi> proving the Divine right OF PRESBYTERIE. By way of <hi>Quere,</hi> propoſed to the ſerious conſide<g ref="char:EOLhyphen"/>ration of all ingenuous and free ſpirited men.</head>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>
+                  <note place="margin">Epheſ. 3. 8, 9.</note>
+                  <hi>
+                     <seg rend="decorInit">U</seg>Nto me who am leſſe, then the leaſt of all Saints, is this grace given; that I ſhould preach the unſearcha<g ref="char:EOLhyphen"/>ble riches of Chriſt among the Gen<g ref="char:EOLhyphen"/>tiles, And to make all men ſee, what is the fel<g ref="char:EOLhyphen"/>lowſhip of the</hi> miſtery, which from the begin<g ref="char:EOLhyphen"/>ning of the world hath been hid in God.</p>
+               <p>Col. 1. 25, 26. <hi>Whereof I am made a Miniſter ac<g ref="char:EOLhyphen"/>cording to the diſpenſation of God, which is given me for you, to fulfill the Word of God; The</hi> miſte<g ref="char:EOLhyphen"/>ry <hi>which</hi> hath been hid, from ages <hi>and from ge<g ref="char:EOLhyphen"/>nerations, but is</hi> now <hi>made manifest to his Saints.</hi>
+               </p>
+               <p>1. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected; That the Goſpell is that miſtery,
+<pb n="2" facs="tcp:36076:3"/> which from the beginning of the world was hid in God, untill the comming of CHRIST in the fleſh; and his declaring it to his Diſci<g ref="char:EOLhyphen"/>ples?</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Mark 16. 15. <hi>Go ye into all the world and preach, the Goſpel to every creature.</hi>
+               </p>
+               <p>Coloſſ. 1. 15, 16. <hi>Who is the image of the invi<g ref="char:EOLhyphen"/>ſible GOD, the first born of</hi> every creature, All things <hi>were created by Him and</hi> for Him.</p>
+               <p>20 <hi>And having made peace through the</hi> blood <hi>of his croſſe, by him to</hi> reconcile all things <hi>to him<g ref="char:EOLhyphen"/>ſelf,</hi> whether <hi>they</hi> be things in earth <hi>or</hi> things in heaven.</p>
+               <p>23 <hi>And be not moved away from the hope of the Goſpel which ye have heard, which was preached</hi> to every creature <hi>which is</hi> under heaven, <hi>where<g ref="char:EOLhyphen"/>of I</hi> Paul <hi>am made a Miniſter.</hi>
+               </p>
+               <p>Rom. 8. 19, 20, 21, 22. <hi>The earneſt expectation of the</hi> creature, <hi>waiteth for the manifeſtation of the Sonnes of GOD, for the creature was made ſubject to</hi> vanitie <hi>not willingly, but by reaſon of him, who hath ſubjected the ſame in</hi> hope, <hi>for the creature it ſelf alſo, ſhall be deli<g ref="char:EOLhyphen"/>vered from the</hi> bondage <hi>of</hi> corruption, <hi>into the glorious</hi> liberty <hi>of the</hi> children of GOD, <hi>for we know that the</hi> whole creation <hi>groaneth, and travaileth together untill now.</hi>
+               </p>
+               <p>Acts 3. 21. <hi>Whom the heavens muſt receive, untill the times of</hi> reſtitution <hi>of</hi> all things.</p>
+               <pb n="3" facs="tcp:36076:3"/>
+               <p>Rev. 21. 5. <hi>And he that ſate upon the Throne ſaid, behold I make</hi> all things new.</p>
+               <p>2 Pet. 3. 13. <hi>We, according to His promiſe look for</hi> new heavens <hi>and a new</hi> Earth <hi>wherein dwel<g ref="char:EOLhyphen"/>leth Righteouſneſſe.</hi>
+               </p>
+               <p>Eſa. 45. 17. <hi>Ye ſhall not be aſhamed nor confounded</hi> world without end.</p>
+               <p>Pſal. 93. 1. <hi>The Lord reigneth, the</hi> world <hi>alſo is</hi> eſtabliſhed <hi>that it cannot be</hi> moved.</p>
+               <p>Joh. 3. 16. <hi>For God ſo loved the</hi> world <hi>that he gave his only begotten Sonne.</hi>
+               </p>
+               <p>John 6. 5. <hi>And the bread that I will give is my</hi> fleſh <hi>which I will give for the</hi> life <hi>of</hi> the world.</p>
+               <p>1 Joh. 4. 14. <hi>We have ſeen and do teſtifie, that the Father ſent the Sonne, the</hi> SAVIOUR <hi>of the</hi> world.</p>
+               <p>2. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p n="1">1 That God by Chriſt hath reconciled to himſelf all things in heaven and in earth.</p>
+               <p n="2">2 That the Goſpell which Chriſt after his Re<g ref="char:EOLhyphen"/>ſurrection commanded his Diſciples to publiſh in all the world, appertained to all the world: <hi>viz.</hi> to every creature in heaven and in earth, or under heaven.</p>
+               <p n="3">3 That God by CHRIST, will reſtore all things, <hi>viz.</hi> make new the heavens and the earth, deliver the whole creation from cor<g ref="char:EOLhyphen"/>ruption, into a glorious and incorruptible ſtate, and ſo to make it abide for ever, a world with<g ref="char:EOLhyphen"/>out end.
+<pb n="4" facs="tcp:36076:4"/> 4 That Gods loving the world, reconciling the world, Chriſt giving his fleſh for the life of the world, his being a Saviour of the world, with many the like phraſes, are not to be underſtood, of the world of the Elect? nor of the world of believers (as ſome fondly imagine) no nor yet of the world of Mankinde (as others more reaſo<g ref="char:EOLhyphen"/>nable do deem) but of the whole univerſall created world, the heavens and the earth, and all things therein?</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Luk. 24. 49. <hi>Behold, I ſend the promiſe of the Fa<g ref="char:EOLhyphen"/>ther unto you, but</hi> tarry <hi>ye in the City of Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> untill <hi>ye be</hi> indued <hi>with</hi> power <hi>from on High.</hi>
+               </p>
+               <p>Acts 1. 4 5. <hi>And being aſſembled together with them commanded them, that they ſhould</hi> not de<g ref="char:EOLhyphen"/>part <hi>from Jeruſalem, but</hi> wait <hi>for the promiſe of the Father, which ye have heard of me, for</hi> John <hi>truly</hi> baptized <hi>with</hi> water, <hi>but ye ſhall be</hi> bapti<g ref="char:EOLhyphen"/>zed <hi>with the</hi> Holy Ghoſt <hi>not many dayes hence.</hi>
+               </p>
+               <p>8 <hi>But ye ſhall receive</hi> power <hi>after the</hi> Holy Ghoſt <hi>is come upon you, and ye ſhall be</hi> witneſſes <hi>unto me, both</hi> in Jeruſalem <hi>and in all</hi> Judea, <hi>and in Sama<g ref="char:EOLhyphen"/>ria, and unto the uttermoſt part of the earth.</hi>
+               </p>
+               <p>3. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That notwithſtanding the former command of Chriſt to his Diſciples, to go into all the world and preach the Goſpell aforeſaid, yet they were not to attempt the doing thereof, untill they were enabled thereto, by the comming down
+<pb n="5" facs="tcp:36076:4"/> of the Holy Ghoſt from Heaven upon them.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Acts 2. 2, 3, 4. <hi>And ſuddainly there came a ſound from heaven, as of a ruſhing mighty winde, and it filled the houſe where they were ſitting, and there appeared unto them cloven tongues, like as of fire, and it</hi> ſate <hi>upon</hi> each <hi>of them, and they were all</hi> filled <hi>with the</hi> Holy Ghoſt, <hi>and began to ſpeak with</hi> other tongues, <hi>as the Spirit gave them ut<g ref="char:EOLhyphen"/>terance.</hi>
+               </p>
+               <p>Verſ. 43. <hi>And fear came upon every ſoul, and</hi> many ſignes <hi>were done by the Apoſtles.</hi>
+               </p>
+               <p>Acts 4. 29, 30, 31. <hi>And now Lord, behold their threatnings, and grant unto thy ſervants that with all boldneſſe they may ſpeak thy Word, by ſtretching forth thy hand to heal, and that</hi> ſignes and wonders <hi>may be done by the name of the Holy childe Jeſus, and they were all filled with the Holy Ghost, and ſpake the Word of God with boldneſſe.</hi>
+               </p>
+               <p>Acts 5. 12. <hi>And by the hands of the Apoſtles, were</hi> many ſignes and wonders <hi>wrought among the people, and they were all with one accord in</hi> Salo<g ref="char:EOLhyphen"/>mons <hi>Porch:</hi>
+               </p>
+               <p>15 <hi>Inſomuch, that they broughe forth the</hi> ſick <hi>into the ſtreets, and layed them on beds and couches, that at the leaſt the</hi> ſhadow of Peter <hi>paſſing by, might over-ſhadow ſome of them.</hi>
+               </p>
+               <p>16 <hi>There came alſo a multitude out of the Cities round about unto</hi> Jeruſalem, <hi>bringing</hi> ſick folks <hi>and them that were</hi> vexed <hi>with</hi> unclean ſpirits, <hi>and they were</hi> healed every one.</p>
+               <pb n="6" facs="tcp:36076:5"/>
+               <p>Acts 8. 5, 6, 7. <hi>Then</hi> Philip <hi>went down to the Ci<g ref="char:EOLhyphen"/>ty of Samaria and preached Chriſt unto them, and the people with one accord</hi> gave heed <hi>unto thoſe things which</hi> PHILIP <hi>ſpake,</hi> hearing <hi>and</hi> ſeeing <hi>the</hi> Miracles <hi>which he did; For unclean</hi> ſpirits crying <hi>with loud</hi> voyces <hi>came out of many that were poſſeſſed with</hi> them: <hi>and many taken with</hi> Palſies <hi>and that were</hi> lame <hi>were</hi> healed. <hi>Likewiſe</hi> Acts 9. 33, 34, 35. 41, 42. Acts 11. 21. Acts 28. 8, 9.</p>
+               <p>Mark. 16. 20. <hi>And they went forth and preached,</hi> every where the Lord working with them, <hi>and</hi> confirming the word with ſignes following.</p>
+               <p>1 Theſ. 1. 5. <hi>For our Goſpell came not to you in word onely, but alſo in power and in the Holy Ghost.</hi>
+               </p>
+               <p>1 Pet. 1. 12. <hi>By them that have</hi> preached <hi>the Go<g ref="char:EOLhyphen"/>ſpel unto you,</hi> with the Holy Ghoſt <hi>ſent down from heaven.</hi>
+               </p>
+               <p>Heb. 2. 4. God <hi>alſo bearing them</hi> witneſſe <hi>both</hi> with ſignes <hi>and</hi> wonders, <hi>and with divers</hi> mi<g ref="char:EOLhyphen"/>racles <hi>and</hi> gifts <hi>of the</hi> Holy Ghoſt.</p>
+               <p>4. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p n="1">1 That as ſoon as they were thus enabled from above, they preſently preached to beget others to the faith, beginning at Jeruſalem as they were appointed. <hi>Luk.</hi> 24. 47.</p>
+               <p n="2">2 That this their preaching came not in word onely, but in power and in the Holy Ghoſt, which was by Gods bearing them witneſſe, or every where working with them, and confirm<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:36076:5"/> the word both with ſignes and wonders, and divers miracles and gifts of the Holy Ghoſt: and therefore it was, that he that deſpiſed them deſpiſed God, and he that believed not made God a liar, which none can be ſaid to do in re<g ref="char:EOLhyphen"/>ſpect of any Miniſtry, not being ſo vvitneſſed by God.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Acts 2. 38, 39. <hi>Repent and be baptized every one of you, in the Name of Jeſus Chriſt, for the remiſſion of ſinnes, and</hi> ye ſhall receive <hi>the</hi> gift <hi>of the</hi> Holy Ghoſt: <hi>For the promiſe (thereof) is unto you and to your children, and to</hi> all <hi>that are a</hi> farre off, <hi>e<g ref="char:EOLhyphen"/>ven as</hi> many <hi>as the Lord, our God</hi> ſhall call.</p>
+               <p>Acts 8. 15, 16, 17. <hi>Who when they were come down prayed for them, that they might</hi> receive the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, <hi>for as yet he was faln upon none of them, onely they were</hi> baptized <hi>in the name of the Lord</hi> Jeſus, <hi>then</hi> laid <hi>they their</hi> hands <hi>on them, and they</hi> received <hi>the</hi> Holy Ghoſt.</p>
+               <p>Acts 9. 17. <hi>And</hi> Ananias <hi>went his way, and entred into the houſe, and putting</hi> hands <hi>on him ſaid, bro<g ref="char:EOLhyphen"/>ther</hi> Saul, <hi>the Lord hath ſent me that thou might<g ref="char:EOLhyphen"/>eſt receive thy</hi> ſight, <hi>and be filled with the</hi> Holy Ghoſt.</p>
+               <p>Acts 19. 1, 2. <hi>And came to</hi> Epheſus, <hi>and finding certain Diſciples, he ſaid unto them, have you re<g ref="char:EOLhyphen"/>ceived the Holy Ghoſt, ſince ye believed?</hi>
+               </p>
+               <p>6 <hi>And when PA<g ref="char:V">Ʋ</g>L had laid his hands up<g ref="char:EOLhyphen"/>on them, the</hi> Holy Ghoſt <hi>came</hi> on them, <hi>and they</hi> ſpake <hi>with</hi> Tongues <hi>and</hi> Prophe<g ref="char:EOLhyphen"/>ſied.</p>
+               <pb n="8" facs="tcp:36076:6"/>
+               <p>Epheſ. 1. 13. <hi>In whom ye alſo truſted, after that ye heard the word of truth, the Goſpell of your ſalva<g ref="char:EOLhyphen"/>tion, in whom alſo after that ye believed ye were</hi> ſealed <hi>with that</hi> Holy Spirit <hi>of</hi> promiſe.</p>
+               <p>2 Cor. 3. 6. <hi>Who alſo hath made us</hi> able Miniſters <hi>not of the Lotter, but</hi> of the Spirit.</p>
+               <p>Gal. 3. 2. <hi>Received ye the</hi> Spirit <hi>by the works of the law, or by the hearing of Faith?</hi>
+               </p>
+               <p>5 <hi>He therefore that</hi> miniſtreth <hi>to you the</hi> Spirit, <hi>and worketh</hi> miracles <hi>among you, doth he it by the works of the Law, or by the hearing of Faith.</hi>
+               </p>
+               <p>1 Tim. 4. 14. <hi>Neglect not the gift which is in thee, which was</hi> give <hi>thee by the laying</hi> on <hi>of the</hi> hands <hi>of the</hi> Presbyterie. <hi>Alſo,</hi> 2 Tim 1. 6.</p>
+               <p>5. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That theſe were enabled not onely plainly and di<g ref="char:EOLhyphen"/>ſtinctly to declare the Goſpell, with Gods bea<g ref="char:EOLhyphen"/>ring witneſſe ſo as is aforeſaid, but alſo to admi<g ref="char:EOLhyphen"/>niſter the ſpirit to others, and did adminiſter it, to all believers (who had it not immediately from heaven) by the laying on their hands up<g ref="char:EOLhyphen"/>on them; which they could not have done, be<g ref="char:EOLhyphen"/>fore they were indued with power ſo to do, by the comming down of the Holy Ghoſt upon them: Therefore were they commanded to ſtay untill it came.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Mark. 16. 15, 16, 17, 18. <hi>Go ye unto all the world and preach, the Goſpell to every creature; he that believeth and is baptized ſhall be ſaved, but he that believeth not, ſhall be damned: And theſe</hi>
+                  <pb n="9" facs="tcp:36076:6"/> ſignes <hi>ſhall follow</hi> them <hi>that</hi> believe; <hi>in my Name they ſhall</hi> caſt out Divels, <hi>they ſhall</hi> ſpeak <hi>with new</hi> tongues, <hi>they ſhall take up</hi> Serpents, <hi>and if they drink any</hi> deadly <hi>thing, it ſhall</hi> not hurt them, <hi>they ſhall</hi> lay hands <hi>on the</hi> ſick, <hi>and they ſhall</hi> recover.</p>
+               <p>Joh. 3. 37, 38. <hi>In the laſt day, that great day of the Feaſt, Jeſus ſtood up and cried, ſaying, if any man thirſt let him come unto me and drink, he that believeth on me as the Scripture ſaith, out of his belly ſhall flow Rivers of Living water; but this ſpake he of the</hi> Spirit, <hi>which</hi> they <hi>that</hi> believe <hi>on him</hi> ſhould receive, <hi>for the Holy Ghoſt was not yet given, becauſe that Jeſus was not yet</hi> glorified.</p>
+               <p>Joh. 14. 16. <hi>I will pray the Father, &amp; he ſhal give you another coforter, that he may</hi> abide <hi>with you for ever</hi>
+               </p>
+               <p>Epheſ. 1. 13, 14. <hi>Ye were</hi> ſealed <hi>with the</hi> Holy ſpirit <hi>of promiſe, which is the</hi> earneſt <hi>of our inheritance,</hi> untill <hi>the redemption of the purchaſed poſſeſſion.</hi>
+               </p>
+               <p>Epheſ. 4. 8. <hi>He led captivitie captive, and gave</hi> gifts <hi>unto men.</hi>
+               </p>
+               <p>11 <hi>He gave ſome Apoſtles and ſome Prophets, and ſome Evangeliſts and ſome Paſtors and Teachers:</hi>
+               </p>
+               <p>12 <hi>For the perfecting of the Saints, for the work of the Miniſtry, for the edifying of the body of Chriſt.</hi>
+               </p>
+               <p>13 <hi>Till we</hi> all come <hi>to the</hi> untiy <hi>of the Faith, and of the</hi> knowledge <hi>of the Sonne of</hi> God, <hi>unto a</hi> perfect man.</p>
+               <p>6. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That theſe gifts of the Spirit were one ſpecificall Character, whereby to diſtinguiſh the true Mi<g ref="char:EOLhyphen"/>niſtry
+<pb n="10" facs="tcp:36076:7"/> of the Goſpel, and Churches of Chriſt, from falſe; to the end of the * world.</p>
+               <p>* Herevvith agreeth a Marginall Note in our Engliſh Bibles, printed 1576 upon <hi>Ioh. 14. 12. He that believeth in me, the vvorks that I do, he ſhall do, and greater.</hi> The Note hereupon is; <hi>This is reſerred to the vvhole body of the Church, in vvhom this vertue of Chriſt doth ſhine and remain for ever.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>1 Cor. 12. 7. <hi>But the manifeſtation of the ſpirit is given to every one to profit withall.</hi>
+               </p>
+               <p>12. <hi>For as the body hath many members, and all the members of that one body being many are one bo<g ref="char:EOLhyphen"/>dy</hi> ſo <hi>alſo is</hi> Chriſt. <hi>For by one</hi> ſpirit <hi>are we</hi> all baptized into one body.</p>
+               <p>Rom. 12. 4, 5. <hi>As we have many members in one body, and all the members have not the ſame Of<g ref="char:EOLhyphen"/>fice, ſo we being many are one body in Chriſt, and</hi> every one, members <hi>one of another.</hi>
+               </p>
+               <p>Rom. 8. 9. <hi>Now if</hi> any one <hi>have not the Spirit of Chriſt, he is none of his (that is) none of his body or Church:</hi>
+               </p>
+               <p>Epheſ. 2. 21, 22. <hi>In whom</hi> all <hi>the building fitly fra<g ref="char:EOLhyphen"/>med</hi> together, <hi>groweth unto an Holy Temple in the Lord; in whom you alſo are</hi> builded toge<g ref="char:EOLhyphen"/>ther, <hi>for an habitation of God through the</hi> Spirit.</p>
+               <p>7. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p n="1">1 That none were capable of true memberſhip in the viſible Church or body of Chriſt (being a ſpirituall ſtate) without being baptized with the baptiſme of the ſpirit?</p>
+               <p n="2">2 That every member of the Church in generall
+<pb n="11" facs="tcp:36076:7"/> had not onely one or more of theſe gifts of the ſpirit, but had the manifeſtation thereof alſo gi<g ref="char:EOLhyphen"/>ven him to profit the body withall.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Acts 6. 3. <hi>Wherefore Brethren look ye out</hi> among you <hi>ſeven men of honeſt repute,</hi> full <hi>of the</hi> Holy Ghoſt.</p>
+               <p>8. <hi>Quer.</hi> Whether from this Scripture may not be collected:</p>
+               <p>That Deacons were to be men full of the Holy Ghoſt; that is, eminently furniſhed with theſe gifts: How much more then ought thoſe who take upon them to be ſuperiour Miniſters of the Goſpell, to be ſuch?</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Joh. 16. 7, 8, 9, 10. <hi>If I go not away, the comfor<g ref="char:EOLhyphen"/>ter will not come unto you, but if I depart, I will ſend</hi> him <hi>unto you: And when</hi> he <hi>is come, he will reprove the world of</hi> ſinne, <hi>and of righteouſneſſe, and of judgement; of</hi> ſinne, becauſe <hi>they</hi> believe not <hi>in me, of righteouſneſſe becauſe I go unto the Father, and ye ſee me no more.</hi>
+               </p>
+               <p>9. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That no miniſtry of the Goſpell ſince the aſſention of Chriſt, had power ſo to convince their hea<g ref="char:EOLhyphen"/>rers, as to bring the ſin of unbelief upon any that rejected their miniſtry, nor to give any cer<g ref="char:EOLhyphen"/>tain and undoubted ground of faith unto them, without this witneſſe of God by ſignes and gifts of the ſpirit, which may be another reaſon why the Diſciples themſelves were co<g ref="char:cmbAbbrStroke">̄</g>manded to ſtay
+<pb n="12" facs="tcp:36076:8"/> untill they were indued with power from on high, by the comming down of the holy Ghoſt upon them.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Joh. 5. 31. <hi>If I bear witneſſe of</hi> my ſelf, <hi>my witneſſe is</hi> not true:</p>
+               <p>33 <hi>Ye ſent unto</hi> John <hi>and he bare witneſſe unto the truth:</hi>
+               </p>
+               <p>34 <hi>But I receive</hi> not <hi>teſtimony from</hi> man:</p>
+               <p>35 <hi>But I have greater witneſſe then that of</hi> John, <hi>for the</hi> works <hi>which the Father hath given me to finiſh, the ſame</hi> works <hi>that I do, bear</hi> witneſſe <hi>of me, that the</hi> Father <hi>hath ſent me.</hi>
+               </p>
+               <p>Compared with,</p>
+               <p>Joh. 15. 24. <hi>If I had not done</hi> among them <hi>the</hi> works <hi>which no other man did, they had not had</hi> ſinne, <hi>but now have they both ſeen and hated both me and my Father.</hi>
+               </p>
+               <p>Joh. 10. 37. <hi>If I do</hi> not the works <hi>of the Father,</hi> believe me not.</p>
+               <p>10. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That Chriſts own Miniſtry, witneſſed both by himſelf, <hi>John</hi> the Baptiſt, or any other man or men, was not ſufficient ſo to convince his hea<g ref="char:EOLhyphen"/>rers as to bring them under the ſin of unbelief, unleſſe it had been alſo witneſſed by the mighty works which he did in their ſight, being ſuch as none could do, but by the ſpeciall power of God.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>1 Cor. 2. 4, 5. <hi>My ſpeech and my preaching was</hi>
+                  <pb n="13" facs="tcp:36076:8"/> 
+                  <hi>not with inticing words of mans wiſdome, but in demonſtration of the ſpirit and of</hi> 
+                  <note n="*" place="margin">That is, God povverfully vvrought vvith him, confirm<g ref="char:EOLhyphen"/>ing his preaching vvith ſignes and miracles, &amp;c. as Act. 19. 11. 12. Heb. 2. 4.</note> 
+                  <hi>power: that your faith ſhould not ſtand in the wiſ<g ref="char:EOLhyphen"/>dome of men, but in the power of God.</hi>
+               </p>
+               <p>11. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That that faith, which is grounded upon any word Scripture, or doctrine, convayed to us by the hands or miniſtry of any men whatſoever, not being alſo witneſſed and confirmed by demon<g ref="char:EOLhyphen"/>ſtration of the ſpirit and power of God, as afore<g ref="char:EOLhyphen"/>ſaid, ſtands in the wiſedome of men, and not in the power of God, nor is ſuch faith as the Church of <hi>Corinth</hi> had, and therefore can be no true faith of the Goſpell: For all divine newes or doctrine (ſuch as the Goſpell is) requiring belief and obedience upon penalties (as the Go<g ref="char:EOLhyphen"/>ſpell doth) ought to have ſome divine evidence and demonſtration to confirm it; otherwiſe it is no ſufficient ground for true faith, but may be waved without ſinne, becauſe whatſoever is but uncertainly or fallibly evidenced (as all in this caſe delivered meerly upon the credit of men, is) may as uncertainly or fallibly be enter<g ref="char:EOLhyphen"/>tained without any ſinne, yea, it were folly (if not ſinne) to do otherwiſe.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Joh. 16. 12, 13, 14. <hi>I have many things to ſay un<g ref="char:EOLhyphen"/>to you, but ye cannot bear them now, howbeit when
+<pb n="14" facs="tcp:36076:9"/> the ſpirit of truth is come, he will guide you into all truth: for he ſhall not ſpeak of himſelf, but whatſoever he ſhall hear, that he ſhall ſpeak; and he will</hi> ſhew you, <hi>things to</hi> come, <hi>he ſhall glorifie me, for he ſhall</hi> receive <hi>of mine, and ſhall</hi> ſhew <hi>it unto</hi> you.</p>
+               <p>Acts 20, 29, 30. <hi>For I know that</hi> after <hi>my depar<g ref="char:EOLhyphen"/>ture,</hi> ſhall <hi>grievous Wolves</hi> enter in among <hi>you, not ſparing the flock; alſo of your own ſelves,</hi> ſhall men ariſe <hi>ſpeaking perverſe things.</hi>
+               </p>
+               <p>Acts 21. 10, 11. <hi>There came down from Judea, a certain Prophet named</hi> Agabus, <hi>and when he was come unto us, he took</hi> Pauls <hi>girdle and bound his own hands and feet, and ſaid, Thus ſaith the</hi> Ho<g ref="char:EOLhyphen"/>ly Ghoſt; <hi>ſo</hi> ſhall <hi>the Jews at Jeruſalem binde the man that oweth this girdle, and</hi> ſhall deliver <hi>him into the hands of the Gentiles.</hi>
+               </p>
+               <p>1 Tim. 4. 1. <hi>Now the</hi> ſpirit ſpeaketh <hi>expreſly, that in the later times ſome</hi> ſhall depart <hi>from the faith, giving heed to ſeducing ſpirits.</hi>
+               </p>
+               <p>Acts 8. 29. <hi>Then the</hi> ſpirit ſaid <hi>unto</hi> Philip, <hi>go near and joyn thy ſelf to this Charet.</hi>
+               </p>
+               <p>Acts 10. 19, 20. <hi>While</hi> Peter <hi>thought on the viſion, The</hi> ſpirit ſaid <hi>unto him, behold three men ſeek thee, ariſe therefore and get thee down, and go with them, doubting nothing for I have ſent them.</hi>
+               </p>
+               <p>Acts 13. 2. <hi>As they miniſtred to the Lord and fa<g ref="char:EOLhyphen"/>ſted, the</hi> Holy Ghoſt ſaid, <hi>ſeparate me</hi> Barnabas <hi>and</hi> Saul, <hi>for the work whereunto I have called them.</hi>
+               </p>
+               <p>1 Cor. 14. 29, 30. <hi>Let the Prophets ſpeak two or</hi>
+                  <pb n="15" facs="tcp:36076:9"/> 
+                  <hi>three, and let the other judge, if any thing be</hi> re<g ref="char:EOLhyphen"/>vealed <hi>to another that ſitteth by, let the first hold his peace, for ye may all propheſie one by one; that</hi> all <hi>may</hi> learn <hi>and</hi> all <hi>may be comforted.</hi>
+               </p>
+               <p>2 Tim. 4. 3, 4. <hi>The time</hi> will come, <hi>when they will not indure ſound doctrine, but after their own luſts ſhall they</hi> heap <hi>to themſelves</hi> Teachers, <hi>ha<g ref="char:EOLhyphen"/>ving</hi> itching <hi>ears, and they</hi> ſhall turn <hi>their ears</hi> from <hi>the truth, and ſhall be turned</hi> into Fa<g ref="char:EOLhyphen"/>bles.</p>
+               <p>12. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p n="1">1 That the gift of propheſie is not a power of ut<g ref="char:EOLhyphen"/>terance, enabling a man to ſpeak the ſpace of an hour, two, or three, and therein to declare ſome notions or doctrines contrived by Arts and learning, or gotten by reading, ſtudying, or the like; which is (as falſly, as) commonly ſti<g ref="char:EOLhyphen"/>led preaching the word of God, when indeed it is farre more likely to be that Miniſtery of Fa<g ref="char:EOLhyphen"/>bles (foretold of by St. <hi>Paul)</hi> unto which the people ſhould give up themſelves, and as we ſee evidently is come to paſſe.</p>
+               <p n="2">2 That the gift of propheſie was an expreſſe reve<g ref="char:EOLhyphen"/>lation (by the ſpirit) of the minde of God for their direction in things of ſpeciall concernment, to the Church in generall, or to ſome member thereof in particular, and a fore-telling things to come.</p>
+               <p n="3">3 That whenſoever any thing was thus revealed by the ſpirit to any of the Members, the ſame was to declare it for the mutuall edification and
+<pb n="16" facs="tcp:36076:10"/> exhortation of the Church, that all might learn and all might have comfort.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>Matth. 3. 11. <hi>I indeed</hi> baptize <hi>you with</hi> water <hi>un<g ref="char:EOLhyphen"/>to repentance, but</hi> he <hi>that commeth after me, is mightier then I, whoſe ſhooe I am not worthy to bear,</hi> he <hi>ſhall</hi> baptize <hi>you with the</hi> Holy Ghoſt <hi>and with fire.</hi>
+               </p>
+               <p>Joh. 1. 33. <hi>He that ſent me to</hi> baptize with wa<g ref="char:EOLhyphen"/>ter, <hi>the ſame ſaid unto me, upon whom thou ſhall ſec the ſpirit deſcending and remaining, the ſame is he that</hi> baptizeth <hi>with the</hi> Holy Ghoſt.</p>
+               <p>Acts 1. 5. <hi>John indeed</hi> baptized with water, <hi>but ye ſhall be</hi> baptized with the Holy Ghoſt <hi>not ma<g ref="char:EOLhyphen"/>ny dayes hence.</hi>
+               </p>
+               <p>Acts 11. 15. <hi>As I began to ſpeak, the</hi> Holy Ghoſt fell on them, <hi>as on us at the begin<g ref="char:EOLhyphen"/>ning.</hi>
+               </p>
+               <p>16 <hi>Then remembred I the Word of the Lord, how that he ſaid</hi> John <hi>indeed</hi> baptized <hi>with</hi> water, <hi>but yee ſhall be baptized with the</hi> Holy Ghoſt.</p>
+               <p>1 Cor. 12. 13. <hi>By one</hi> ſpirit <hi>are we</hi> all baptized <hi>into one body.</hi>
+               </p>
+               <p>Matth. 21. 25. <hi>The</hi> baptiſme <hi>of</hi> John <hi>whence was it, from heaven or of men?</hi>
+               </p>
+               <p>Acts 1. 22. <hi>Beginning from the</hi> baptiſme <hi>of</hi> John,</p>
+               <p>Acts 18. 25. Acts 19. 3.</p>
+               <p>Mark 1. 4. <hi>John did baptize in the wilderneſſe, and preached the</hi> baptiſme <hi>of</hi> Repentance, <hi>for</hi> remiſ<g ref="char:EOLhyphen"/>ſion of ſinnes.</p>
+               <p>Luk. 3. 3. <hi>And he came into all the Country about Jordan, preaching the baptiſme of Repentance,</hi> for
+<pb n="17" facs="tcp:36076:10"/> the remiſſion of ſinnes. <hi>Acts</hi> 13. 24.</p>
+               <p>Acts 2. 38. Repent and be baptized <hi>every one of you in the Name of Jeſus Chriſt,</hi> for the remiſſion of ſinnes. <hi>And ye ſhall receive the</hi> gifts <hi>of the</hi> Holy Ghoſt. <hi>For the promiſe is to as many as ſhall be called.</hi>
+               </p>
+               <p>Acts 8. 14. 15, 16, 17. <hi>They ſent unto them</hi> Pe<g ref="char:EOLhyphen"/>ter <hi>and</hi> John, <hi>who when they were come down, prayed for them that they might receive the Holy</hi> Ghoſt, <hi>for as yet he was faln upon none of them,</hi> onely <hi>they were</hi> baptized <hi>in the</hi> Name <hi>of the</hi> Lord Jeſus; <hi>then laid they their hands on them and they</hi> received <hi>the</hi> Holy Ghoſt.</p>
+               <p>Acts 19. 5, 6. <hi>When they heard this, they were</hi> baptized <hi>in the</hi> Name <hi>of the</hi> Lord Jeſus.</p>
+               <p>
+                  <hi>And when</hi> Paul <hi>laid his hands upon them, the</hi> Holy Ghoſt came <hi>on</hi> them, <hi>and they ſpake with</hi> tongues and propheſied.</p>
+               <p>Epheſ. 1. 13. <hi>After ye believed, ye were</hi> ſealed <hi>with the holy</hi> ſpirit <hi>of promiſe, which is the</hi> earneſt of our inheritance.</p>
+               <p>2 Cor. 1. 22. <hi>Who hath alſo</hi> ſealed <hi>us, and given us the</hi> earneſt <hi>of the</hi> ſpirit <hi>in our hearts.</hi>
+               </p>
+               <p>Matth. 28. 18, 19. All power <hi>is</hi> given <hi>unto</hi> me <hi>in heaven and in earth: Go ye</hi> therefore <hi>and teach all Nations,</hi> baptizing them <hi>in the Name of the</hi> Father, <hi>and of the</hi> Sonne, <hi>and of the</hi> Holy Ghoſt.</p>
+               <p>Mark 16. 17. <hi>He that believeth and is</hi> baptized <hi>ſhall be ſaved.</hi>
+               </p>
+               <p>
+                  <hi>And theſe</hi> ſignes <hi>ſhall follow them that believe, &amp;c.</hi>
+               </p>
+               <pb n="18" facs="tcp:36076:11"/>
+               <p>13 <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p>That there were two ſeverall baptiſmes apper<g ref="char:EOLhyphen"/>taining to the true Miniſtery of the Goſpell, plainly diſtinguiſhed in theſe four particulars.</p>
+               <p n="1">1 In their Authors; the one JOHN, the other CHRIST.</p>
+               <p n="2">2 In their matter; the one Water, the other the Holy Ghoſt.</p>
+               <p n="3">3 In their form; the one, <hi>In the Name of the Lord JES<g ref="char:V">Ʋ</g>S,</hi> by dipping the ſubject into wa<g ref="char:EOLhyphen"/>ter. The other, <hi>In the Name of the Father, and of the Sonne, and of the Holy Ghost,</hi> by laying their hands upon the ſubject.</p>
+               <p n="4">4 In their ends; the one the Baptiſme of Re<g ref="char:EOLhyphen"/>pentance for the remiſſion of ſinnes; the other, the baptiſme or ſeal of the Spirit, for an earneſt of the everlaſting inheritance.</p>
+            </div>
+            <div type="part">
+               <head>Scripture.</head>
+               <p>
+                  <hi>Hebr. 6. 1, 2, 3, 4. Therefore leaving the</hi> princi<g ref="char:EOLhyphen"/>ples <hi>of the Doctrine of Chriſt, Let us go on unto perfection, not laying again the</hi> foundation <hi>of re<g ref="char:EOLhyphen"/>pentance from dead works, and of faith towards God, of the Doctrine of</hi> Baptiſmes, <hi>and of</hi> laying <hi>on of</hi> hands, <hi>and of reſurrection from the dead, and of eternall judgement; and this will we do, if God permit; For it is impoſſible for thoſe who were once inlightned, and have taſted of the hea<g ref="char:EOLhyphen"/>venly</hi> gift, <hi>and were made</hi> pertakers <hi>of the</hi> Holy Ghoſt, &amp;c. <hi>if they ſhall fall away, &amp;c.</hi>
+               </p>
+               <pb n="19" facs="tcp:36076:11"/>
+               <p>14. <hi>Quer.</hi> Whether from theſe Scriptures may not be collected:</p>
+               <p n="1">1 That the Doctrine of the aforementioned Baptiſmes, and of laying on of hands, is part of the principles of the Doctrine of CHRIST.</p>
+               <p n="2">2 That the doctrine of theſe Baptiſmes, and of laying on of hands, was laid by the true Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell, as a part of the foundation upon which only the faith of all true Believers of the Goſpell, and Chriſtian viſible Churches, were and ought to be built.</p>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>All the learned and able of all ſorts do agree in expounding,</hi> Matth. 28. 19. <hi>To be the inſtitution of the baptiſme with water, or at least that the baptiſme with water is there only meant. Whoſe authority you croſſe in expounding it to be meant of the baptiſme with the Holy Ghost. As is in<g ref="char:EOLhyphen"/>timated in the different formes of baptiſme in your 13th. Quere, and 3d. Diſtinction.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>Authorities in this caſe, ought not be meaſured by numbers or votes of men, though never ſo learned and able, but by Scripture and weight of ſound reaſon. And now that by this Text is meant the baptiſm with the Holy Ghoſt, and not of that with water, I ſhall prove by theſe following Ar<g ref="char:EOLhyphen"/>guments.</p>
+                  <pb n="20" facs="tcp:36076:12"/>
+                  <p>1 From the inſtitution it ſelf. Chriſt after his reſurrection, when he had declared to his Diſci<g ref="char:EOLhyphen"/>ples, that all power in heaven and in earth was gi<g ref="char:EOLhyphen"/>ven unto him, commanded them ſaying; <hi>Go ye therefore and teach all Nations baptizing them, in the Name of the Father, and of the Sonne, and of the Holy Ghoſt.</hi> Hence I argue;</p>
+                  <p>That this being an inſtitution of a Baptiſme, it is either the inſtitution of the Baptiſme with Water, or of the Baptiſme with the Holy Ghoſt; but it is not of that with water, becauſe the bap<g ref="char:EOLhyphen"/>tiſme with water was inſtituted and adminiſtred long before that time by <hi>John</hi> the Baptiſt, who had authority from God ſo to do, <hi>Joh.</hi> 1. 33. Chriſt himſelf, <hi>Mark.</hi> 1. 9. The Diſcip'es and many hun<g ref="char:EOLhyphen"/>dreds more, being baptized by <hi>John</hi> with the Bap<g ref="char:EOLhyphen"/>tiſme with water, long before this inſtitution of Chriſt, or any adminiſtration thereupon. And for one and the ſelf ſame Baptiſme to have two inſti<g ref="char:EOLhyphen"/>tutions, and theſe ſeverall and different, and yet true; is moſt unreaſonable to imagine.</p>
+                  <p>2 It is not the inſtitution of the Baptiſme with water, nor was the baptiſme with water here meant, becauſe the baptiſme with water would then have been tearmed Chriſts Baptiſme as well as <hi>Johns;</hi> But the baptiſme with water was never tearmed Chriſts baptiſme, but alwayes tearmed <hi>Johns,</hi> both before and after this inſtitution of Chriſt: Whereas on the other ſide, the baptiſme with the Holy Ghoſt, was in like manner alwayes tearmed Chriſts.</p>
+                  <p>3 It is not the baptiſme with water which was
+<pb n="21" facs="tcp:36076:12"/> there meant, becauſe then the Diſciples afterward would have ſo propoſed and adminiſtred it <hi>(to wit) In the Name of the Father, and of the Sonne, and of the Holy Ghoſt</hi> (according to the command) but they did not afterward ſo propoſe, nor ſo admini<g ref="char:EOLhyphen"/>ſter it, but clean otherwiſe <hi>(to wit) In the Name of the Lord Jeſus, and for remiſſion of ſinnes,</hi> Acts 2. 38. and 8. 16. Even as <hi>Johns</hi> baptiſme was by him formerly propoſed and adminiſtred. <hi>Mark. 1. 4. Luk.</hi> 3. 3. compared with <hi>Acts</hi> 19. 4, 5.</p>
+                  <p>4 It is not the baptiſme with water which was here meant, becauſe the Diſciples were una<g ref="char:EOLhyphen"/>ble to perform the miniſtry of the baptiſme which was here meant, untill they were indued with power from on High, by the comming down of the Holy Ghoſt upon them; and therefore they were commanded to ſtay at Jeruſalem untill it came, and when they were baptized with the Ho<g ref="char:EOLhyphen"/>ly Ghoſt themſelves, <hi>Acts</hi> 2. Then (and not till then) they were able to baptize others with the Holy Ghoſt alſo; and ſo were made able Miniſters of the Spirit to others, by their laying their hands upon them: But they were made able Miniſters, and did perform the Miniſtery of the Baptiſme with water, long before this command of Chriſt. <hi>John</hi> 4. 2.</p>
+                  <p>This may further be confirmed, from <hi>Mark.</hi> 16. Where the ſame Baptiſme with the Holy Ghoſt is implyed and meant, the words with the ſenſe thereof being as followeth;</p>
+                  <p>Verſ. 15. <hi>Go ye into all the world and preach (pub<g ref="char:EOLhyphen"/>liſh
+<pb n="22" facs="tcp:36076:13"/> or declare) the Goſpell (which I have taught to you, and which doth belong) to every creature (under heaven.)</hi>
+                  </p>
+                  <p>16 <hi>He that believeth (this Goſpell) and is bapti<g ref="char:EOLhyphen"/>zed (with the Holy Ghoſt) ſhall be ſaved. He that believeth not (this Goſpell ſo declared to him by my Meſſengers as I have commanded) ſhall be damned.</hi>
+                  </p>
+                  <p>17 <hi>And theſe ſignes ſhall follow them that believe; (and are ſo baptized.)</hi>
+                  </p>
+                  <p>This I take to be the true ſenſe and meaning of the palce; For,</p>
+                  <p n="1">1 <hi>If it be thus taken (to wit) That theſe ſignes ſhall follow them that meerly believe, in this ſence it is untrue; For there were many that believed, who had not any ſignes following upon their be<g ref="char:EOLhyphen"/>lieving.</hi>
+                  </p>
+                  <p n="2">2 <hi>If it be thus taken (to wit) That theſe ſignes ſhall follow them that believe and are baptized with water, in this ſence it is untrue likewiſe; for there were many that believed and were baptized with water, who yet had not theſe ſignes follow<g ref="char:EOLhyphen"/>ing, upon their believing and being ſo baptized; but as ſoon as they were baptized with the Holy Ghoſt ſignes and gifts of the Holy Ghoſt did im<g ref="char:EOLhyphen"/>mediately follow thereupon.</hi>
+                  </p>
+                  <p>
+                     <hi>Whence I thus conclude this Point;</hi>
+                  </p>
+                  <p>If this place in <hi>Mark</hi> 16. 17. be to be taken in neither of the two latter ſences, then it is to be
+<pb n="23" facs="tcp:36076:13"/> taken in the firſt ſence onely, there being no fourth ſence in reaſon to be given;</p>
+                  <p>But it is to be taken in neither of the two latter ſences, for the reaſons before mentio<g ref="char:EOLhyphen"/>ned:</p>
+                  <p>Therefore it is to be taken in the firſt ſence onely.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>1 Cor. 12. 3. <hi>No man can ſay that Jeſus is the Lord, but by the Holy Ghoſt; Therefore the gifts of the Holy Ghost are now given forth, though not with any viſible manifeſtation.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>
+                     <hi>Verſ. 7. The manifeſtation of the gifts of the Spirit was given to every one to profit withall, as well as the gifts themſelves.</hi>
+                  </p>
+                  <p>2 The meaning of the place cannot be, that no man can barely ſay that Jeſus is the Lord, but by the gift of the Holy Ghoſt; for many might and ſome did ſay ſo, before the powring forth of theſe gifts of the Spirit (whereof onely that place treateth) and many thouſand deboiſt wret<g ref="char:EOLhyphen"/>ches at this day can ſay it; yea and a <hi>Parret</hi> may be taught to ſay the ſame, without any ſuch gift. Wherefore I conceive the meaning of the place in other expreſſions more propably may be;
+<pb n="24" facs="tcp:36076:14"/> No man can ſo ſay or ſo teſtifie that Jeſus is the Lord, as thereby to give another ſufficient ground to build his faith upon, that his teſtimony, without God alſo bear witneſſe thereto, by ſome ſignes and gifts of the Holy Ghoſt; Like as 1 <hi>Cor.</hi> 2. 4, 5. ſeems to import.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>St.</hi> Paul, <hi>Rom. 8. 9. Writes, if any one have not the ſpirit of Chriſt, the ſame is none of his: Where<g ref="char:EOLhyphen"/>fore either the ſpirit is now given to ſome, or elſe none are Chriſts.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>St. <hi>Paul</hi> here writes to ſuch, who were of the true Church or body of ChriſT, which being a ſpi<g ref="char:EOLhyphen"/>rituall ſtate, none were capable of true Member<g ref="char:EOLhyphen"/>ſhip therein, but by being united thereto by having ſome gift or gifts of the ſpirit, to profit the body withall; and whereof every Member of that Bo<g ref="char:EOLhyphen"/>dy was partaker: As theſe Texts do manifeſt. 1 <hi>Corinth.</hi> 12. 7. 12. 13. <hi>Epheſ.</hi> 2. 11. 22. and 4. 15, 16.</p>
+                  <p>Wherefore none of his, muſt be underſtood (as I conceive) no member of that his body. For ma<g ref="char:EOLhyphen"/>ny were Chriſts in other reſpects, before thoſe gifts of the ſpirit were powred forth. As in <hi>Joh.</hi> 7. 39. <hi>Acts</hi> 1. 5. 15. And many afterward alſo were Chriſts, who yet had not received the ſpirit: As <hi>Acts</hi> 8 12. 16, 17. and 19. 1, 2. 6. but we finde
+<pb n="25" facs="tcp:36076:14"/> none were members of this his body, without ſome gift or gifts of the ſpirit, for they were all baptized in that one body (not by one faith, nor by one water) but by one ſpirit, 1 <hi>Cor.</hi> 12. 12, 13.</p>
+                  <p>
+                     <hi>The Premiſes conſidered: I Quere,</hi>
+                  </p>
+                  <p>1 Whether there are now extant amongſt us, any right Divines, or <hi>Jurae Divino,</hi> or true Mi<g ref="char:EOLhyphen"/>niſters or Embaſſadours of the Goſpell? If yea, then let them accordingly demonſtrate themſelves to be ſuch, and by ſuch undoubted diſtinctions, whereby we may evidently know them from all pretenders, of all ſorts whatſoever; as we finde the true Miniſters of the Goſpell did?</p>
+                  <p>And ſeeing Faith comes by ſuch preaching as none can perform but ſuch as are ſent, <hi>Rom.</hi> 10. 14, 15.</p>
+                  <p>
+                     <hi>In the ſecond place I Quere.</hi>
+                  </p>
+                  <p>2 Whether the undoubted and ſaving know<g ref="char:EOLhyphen"/>ledge of the Goſpell of Chriſt, be attainable by a<g ref="char:EOLhyphen"/>ny other ordinary meanes, then by a true Miniſtry or Embaſſie.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>It ſeems you know the Goſpell of your ſelf, ha<g ref="char:EOLhyphen"/>ving in the firſt and ſecond collection declared it.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p n="1">1 The firſt Collection declareth onely that
+<pb n="26" facs="tcp:36076:15"/> the Goſpell was that myſtery which was hid, but doth not declare what that myſtery is which was hid.</p>
+                  <p n="2">2 The ſecond Collection declareth, that the Goſpell which CHRIST commanded his Diſci<g ref="char:EOLhyphen"/>ples to publiſh in all the world, appertained to all the world; <hi>(viz.)</hi> to every creature in Hea<g ref="char:EOLhyphen"/>ven and in earth, or under heaven; which are the very words of the Text. But neither Colle<g ref="char:EOLhyphen"/>ction, nor theſe or any other Text, declareth what that Goſpell is in its fulneſſe, parts, dimentions, limitations, and extentions. Nor doth any Text or perſon from Text, or otherwiſe; declare any thing with any ſuch demonſtration, as the true Miniſters and Embaſſadors of the Goſpel did, and ought to declare the Goſpell.</p>
+                  <p n="3">3 Whatſoever is here declared, is propoſed pro<g ref="char:EOLhyphen"/>bably onely to be conſidered, and not infallibly to be believed upon pain of damnation, as the true Miniſters of the Goſpell did and ought to declare and propoſe the Goſpell.</p>
+                  <p n="4">4 None therefore are at all bound in reſpect of any thing here ſaid, but are free and at liber<g ref="char:EOLhyphen"/>ty; ſo that what they finde here probably true, they may accordingly receive; and what other<g ref="char:EOLhyphen"/>wiſe, they may reject even as they ſee good: For ſo and no otherwiſe, will I receive any thing (of this kinde) from any whoſoever they are, untill they can demonſtrate the truth of their Miniſtry, more then I have ever ſeen or heard any man yet to do.</p>
+                  <pb n="27" facs="tcp:36076:15"/>
+                  <p>
+                     <hi>The Premiſes conſidered; I Quere.</hi>
+                  </p>
+                  <p>Whether it be not tranſcendent wiſdome, and worthy higheſt praiſe in the Parliament, and conducing much to the Peace and ſafety of the people, to decline the putting power of judging Hereticks and Hereſies, erroneous opinions and doctrines concerning the Goſpell of Chriſt, into the hands of ſuch perſons, who undoubtedly know not the Goſpell of Chriſt themſelves.</p>
+               </div>
+            </div>
+         </div>
+         <div type="text">
+            <head>The Parliaments Proceedings herein, juſtified by theſe Reaſons.</head>
+            <p n="1">1. Becauſe of the ill ſucceſſe and ſad experience our Anceſtours have alwayes had, in giving ſuch power, the effect whereof proving the deſtruction of many innocent perſons.</p>
+            <p n="2">2. Becauſe the Parliments giving ſuch power tends not onely to make the people, but them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="28" facs="tcp:36076:16"/> yea the beſt and greateſt of them, liable to be deſtroyed in their innocency; As that right No<g ref="char:EOLhyphen"/>ble Lord, the <hi>Lord Cobham</hi> was: Who being han<g ref="char:EOLhyphen"/>ged in three iron chaines, was burned to death for his witneſſing againſt the Clergy, in the dayes of <hi>Hen.</hi> the 4.</p>
+            <p>3 Becauſe the freeing of the people from all kindes of oppreſſion (whereof this is the greateſt) and the procuring their mutuall tranquility in peace and love, agreeable to the rules of juſtice, vertue, and honeſty, is the greateſt (if not the on<g ref="char:EOLhyphen"/>ly) work of Reformation, entruſted into their hands, according to the known Maxim;</p>
+            <p>
+               <hi>The ſafety of the people is the ſupream Law.</hi>
+            </p>
+            <p>And therefore it is exceeding weakneſſe (if not wickedneſſe) for any to move or importune them to give any ſuch power.</p>
+            <div type="part">
+               <head>Objection.</head>
+               <p>But ſome may object and ſay. <hi>That I do not well in comparing the former Clergy that deſtroyed the Lord</hi> Cobham, <hi>with theſe of our times.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>Theſe have and do drive on their own intereſts, from the very ſame principles, under the ſame ſpe<g ref="char:EOLhyphen"/>cious pretences, and falſe claims of being the true Miniſters of the Goſpell, of being Orthodoxe Di<g ref="char:EOLhyphen"/>vines, as the other did. Theſe publikely charge all that diſſent from them in doctrine or practice,
+<pb n="29" facs="tcp:36076:16"/> to be Heteredox, erronious perſons, Sectaries, Schiſmaticks, Blaſphemers, or Hereticks. And would accordingly deal with them (had they power) and all in the name, and for the peace and good of the Church, as the others did.</p>
+                  <p>Theſe get to be publike Speakers and Maſters of the Preſſe, as the others did; that none ſo charged and aſperſed by them, can without danger publike<g ref="char:EOLhyphen"/>ly vindicate themſelves, or undeceive the ſeduced people. Theſe term themſelves the Tribe of <hi>Levi,</hi> the Lords own <hi>Tribe</hi> and <hi>Heritage;</hi> and the reſt of the people Lay, as the others did. Theſe in<g ref="char:EOLhyphen"/>veigh and cry out againſt Lay-mens preaching, terming them ignorant men (not knowing the Originals) illiterate Mechanicks, and what not, in compariſon of themſelves, as the others did. Theſe exact Tythes, Oblations, Obventions, from all both rich and poore, within their Pariſhes or Precincts, as the others did (and as the true Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell never did.) There being no difference between them in all theſe, nor in any other reſpects, ſave onely in termes; For as the Pope falſly ſtiles himſelf the Vicar of Chriſt; So theſe being ordained by a power, but derived ſub<g ref="char:EOLhyphen"/>ordinately from the <note n="*" place="margin">
+                        <p>If our Eccleſiaſticall Miniſters diſtinct from Civill, received their power to be ſuch ſubordi<g ref="char:EOLhyphen"/>nately from the Pope, then the ſetting them up in a capacitie to exerciſe any juriſdiction or pow<g ref="char:EOLhyphen"/>er in this Kingdome, which they challenge meerly by being ſuch Eccleſiaſticall Miniſters as a<g ref="char:EOLhyphen"/>foreſaid, is the ſetting up of a forraign power in this Kingdom.</p>
+                        <p>But the firſt is true, therfore the 2d. <hi>Whence I Quere;</hi>
+                        </p>
+                        <p n="1">1 VVhether the practice of ſetting up any forraign power in this Kingdome, be not high trea<g ref="char:EOLhyphen"/>ſon by the Law of the Land?</p>
+                        <p n="2">2 VVhether the pretence of Divine Right, the better to cul<g ref="char:EOLhyphen"/>ler and effect the ſaid practice, be not an aggravation of the of<g ref="char:EOLhyphen"/>fence; at leaſt ſo farre, as to de<g ref="char:EOLhyphen"/>ſerve alſo the puniſhment of counterfeits of the higheſt de<g ref="char:EOLhyphen"/>gree.</p>
+                     </note> Pope, as falſly ſtile themſelves the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt. The former challenged to themſelves to be <hi>ju<g ref="char:EOLhyphen"/>rae divino,</hi> and ex<g ref="char:EOLhyphen"/>pounded all Texts (I
+<pb n="30" facs="tcp:36076:17"/> had almoſt ſaid, fra<g ref="char:EOLhyphen"/>med all Copies and Tranſlations) accord<g ref="char:EOLhyphen"/>ingly to ſerve their own turnes, to main<g ref="char:EOLhyphen"/>tain their own do<g ref="char:EOLhyphen"/>ctrines and practiſes, and to uphold their own power &amp; ſtand<g ref="char:EOLhyphen"/>ing, as our late epiſco<g ref="char:EOLhyphen"/>pall Prelacie likewiſe did. And do not out Pres byterian Prelacy come fairly on in this reſpect alſo; give them but leave a while, and you ſhall ſee them as like the Father as ever was Childe; <hi>Rome</hi> was never built in one day. And as the two former backt their authority with Majeſteriall coe<g ref="char:cmbAbbrStroke">̄</g>rcive power, without which they neither did nor could ſtand; So theſe by all cun<g ref="char:EOLhyphen"/>ning contrivances, and reſtleſſe endeavours, ſeek to get the like, and in want thereof are inraged; accounting themſelves undone.</p>
+                  <p>Why Brethren, what's the cauſe of all your grievous complaints, out-cries, and alarums from your Pulpits in this behalf, againſt the Parliament, whereby you have filled City and Country with ſuch Lightnings, Thunder and Earthquakes, even to the diſturbance of the State, and all peaceable well-minded people? Wherein hath the Parlia<g ref="char:EOLhyphen"/>ment wronged you? or by whom elſe are you
+<pb n="31" facs="tcp:36076:17"/> wronged? are you rob'd of any power which by Divine Right you brought with you, or ever had? Can it be Divine and from above, and yet taken or detained from you by any mortals here below? or can it be Divine Right, and not bring Divine power alſo with it to evince and make way for it ſelf, but muſt petition frail man for its admiſſion? Surely there's ſome great miſtake in the buſineſſe, you want power that's moſt certain, yea your ſelves confeſſe it; for why elſe complain you of the want of it? and in that you do ſo want power (out of queſtion) is a great fault, but upon whom this fault is juſtly chargeable, is the onely queſtion? Are ye indeed true Divines and Embaſſadours of Jeſus Chriſt (into whoſe hands all power in Hea<g ref="char:EOLhyphen"/>ven and earth, is put by the Almighty God) and yet want you power? The fault ſurely then muſt be in the Maſter or Meſſenger, either in the ones ſending, or in the others comming ſo haſtily un<g ref="char:EOLhyphen"/>provided, and without power ſufficient for the neceſſary diſcharge of your Meſſage, what in this caſe can be imagined, your ſelves being judges, but that you have haſtily run, both without Meſſage, and before you were ſent; for God never ſent Em<g ref="char:EOLhyphen"/>baſſadours into the world at randome, to ſeek their Meſſuage, both matter and form out of Bookes and Libraries, or to need the Ma<g ref="char:EOLhyphen"/>giſteriall power to ſet them up, or to ſupport. them in authority to publiſh and diſcharge their Embaſſie as you do; much leſſe to engage Nations and Kingdomes in blood to do it, as your generation have alwayes done: And as it is to be
+<pb n="32" facs="tcp:36076:18"/> feared are yet ſtill like to do, unleſſe People and Parliament be the wiſer, and look the better about them timely to prevent it.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>1 Tim. 4. 14. <hi>and</hi> Acts 15. 2. 4. 6. <hi>Mention Elders and Preſbyters who had Divine Right, and power, &amp;c. which proves that our Aſſembly of Pre<g ref="char:EOLhyphen"/>ſbiters have the like.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſw.</head>
+                  <p>No more then it proves an Aſſembly of Epiſco<g ref="char:EOLhyphen"/>pall, Anabaptiſticall, Arminian, or Arrian Presby<g ref="char:EOLhyphen"/>ters, have Divine Right; nor more then it proves the Councell of <hi>Trent,</hi> had Divine Right.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>Ours are godly Orthodoxe Divines, the other an Hereticks, Idolaters, &amp;c.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>Who but themſelves, and ſuch onely as are their judgement will ſay ſo; The ſame will each of the other reſpectively ſay of themſelves, and the contrary of their oppoſites. But in this caſe man witneſſe, and as Chriſt ſayes, his own witneſſe himſelf is not true, <hi>Joh.</hi> 5. 31. 33. 35.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:36076:18"/>
+               <head>Objection.</head>
+               <p>
+                  <hi>But thefe and other Texts in the New Teſtament, do give Divine Right and power now to ſome to be Miniſters of the Goſpell.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>No more then the Book of the Propheſie of <hi>Jo<g ref="char:EOLhyphen"/>nah,</hi> gives authority to ſome to preach to <hi>Nineveh, Yet forty dayes and</hi> Nineveh <hi>ſhall be deſtroyed;</hi> nor no more then the Hiſtory of the Book of Kings, gives authority to any to be Kings: nor no more then the Hiſtory of the Scribes and Phariſes, of the chief Captain, of the Centurion, or of <hi>Demetrius</hi> the Silver-Smith, mentioned in the Acts of the A<g ref="char:EOLhyphen"/>poſtles, gives authority to any to be ſuch. For as the Miniſtry of the Goſpell is a Divine Office, ſo it muſt neceſſarily be derived from a Divine power and bring with it ſuitable evidence, without which the recitall in Scripture of ſuch an Office, proves no more one man then every man to be in that Of<g ref="char:EOLhyphen"/>fice; and no more then the recitall in Scripture of the Office of a King or chief Captain, &amp;c. proves a man to be ſuch, without producing a lawfull Ti<g ref="char:EOLhyphen"/>tle, and ſuitable evidence.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>True Miniſters of the Goſpell had Divine right and power; whence then had they it, if not from Scripture?</hi>
+               </p>
+               <div type="subpart">
+                  <pb n="34" facs="tcp:36076:19"/>
+                  <head>Anſwer.</head>
+                  <p>They had it from Heaven, and were therefore commanded to ſtay untill they were indued there<g ref="char:EOLhyphen"/>with from on high, <hi>Luk.</hi> 24. 49. which was with the power of the Holy Ghoſt comming down up<g ref="char:EOLhyphen"/>on them, <hi>Acts</hi> 1. 8.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>But</hi> Paul <hi>and</hi> Timothy <hi>with divers other are mentioned in Scripture to be true Miniſters of the Goſpell, and to have Divine power, yet received it not from on high, as the former did.</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>Though they received it not ſo immediately as the former did which firſt received it, yet they re<g ref="char:EOLhyphen"/>ceived it from on High (as well as they) by the laying on of the hands of the Presbyters or true Miniſters; ſo <hi>Paul</hi> by the hands of <hi>Ananias, Acts</hi> 9. 17. and <hi>Timothy</hi> by the hands of <hi>Paul, 2 Tim.</hi> 1. 6. Yea the truth is, all the Diſciples and Belie<g ref="char:EOLhyphen"/>verr were indued with Divine Rights and power, more or leſſe, for by the hands of <hi>Peter</hi> and <hi>John,</hi> the Believers at <hi>Samaria</hi> both men and women, received the Holy Ghoſt: <hi>Acts</hi> 8. 12. 17. Like<g ref="char:EOLhyphen"/>wiſe by the hands of <hi>Paul</hi> the Twelve Diſciples at <hi>Epheſus</hi> received the Holy Ghoſt, and ſpake with tongues, and propheſied, <hi>Acts</hi> 19. 1. 6, 7. And as
+<pb n="35" facs="tcp:36076:19"/> all the members of the Church were ſeverally in<g ref="char:EOLhyphen"/>dued with theſe gifts of the ſpirit, ſo they were to adminiſter and do ſervice accordingly; As is evi<g ref="char:EOLhyphen"/>dent by <hi>Rom.</hi> 12. 6, 7. 1 Cor. 12. 27, 28. Epheſ. 4. 11. So then it's moſt apparent, that the laying on of hands was no vain and fruitleſſe ceremony as now it is.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Objection.</head>
+               <p>
+                  <hi>To what end then were the Books of the New Te<g ref="char:EOLhyphen"/>ſtament first writ, if not for a ground and riſe of true Miniſters and Churches?</hi>
+               </p>
+               <div type="subpart">
+                  <head>Anſwer.</head>
+                  <p>They were writ for farther information and direction to true Miniſters and Churches then in being, and to whom alſo they were for the moſt part (if not altogether) ſent; but not to erect or impower any to become ſuch.</p>
+                  <p>
+                     <hi>Theſe things conſidered; I Quere.</hi>
+                  </p>
+                  <p>Whether it be not juſtice, reaſon, and honeſty, for our Learned Clergy, in pitie to their Lay and unlearned brethren, from whom they and their predeceſſors have received ſuch vaſt Revenews, time out of minde, for little or nothing, either to give ſatisfaction in the premiſes, or elſe for ever
+<pb n="36" facs="tcp:36076:20"/> henceforth to forbear not onely their proud aſpi<g ref="char:EOLhyphen"/>ring deſires and endeavours of <hi>Domination</hi> over them; but alſo to leave off their vile and reproach<g ref="char:EOLhyphen"/>full tearmes of Oblo<g ref="char:EOLhyphen"/>quie, as of <hi>Sectaries, Schiſmaticks, Here<g ref="char:EOLhyphen"/>ticks,</hi> &amp;c. which u<g ref="char:EOLhyphen"/>ſually from <note n="*" place="margin">VVitneſſe <hi>Edwards</hi> his Book intituled <hi>Gangraena,</hi> wherein the malitious Authour hath much diſcovered his own Or<g ref="char:EOLunhyphen"/>thodox ignorance, impudence, and folly.</note> Preſſe &amp; Pulpit they caſt upon others, farre more worthy then themſelves.</p>
+                  <p>Nevertheleſſe, if after ſo many ſeven yeares ſer<g ref="char:EOLhyphen"/>vitude, under our Eccleſiaſticall Task-maſters, there be any yet ſo ſottiſh, who will not go free, but will ſtill vaſſalize themſelves, their judgments and conſciences, to any of that kinde; Then (by my conſent) let ſuch have their ears bor'd thorow with an Awl, and be made ſlaves for ever accord<g ref="char:EOLhyphen"/>ing to the Law, <hi>Lev. 21. 6. Deut.</hi> 15. 17.</p>
+                  <p>But let the reſt be uninſlaved, and go free ac<g ref="char:EOLhyphen"/>cording to right reaſon, juſtice, and their native priviledges; eſpecially, they hauing redeem'd them at ſo deer a rate, even to the eminent hazard of the totall vaſſallizing both of themſelves and theirs for ever.</p>
+                  <p>And yet (notwithſtanding all that hath been ſaid) I do not intend or ſuppoſe, that pious and good men, may not make a holy and comfortable uſe of the Scriptures; No, rather I earneſtly per<g ref="char:EOLhyphen"/>ſwade all men to the diligent reading thereof, and meditation thereupon, that ſo their hearts and mindes may be filled with the knowledge of the love of God to mankinde, aboundantly there
+<pb n="37" facs="tcp:36076:20"/> manifeſted, and in the ſtrength thereof to reſolve to walk as becommeth true and reall Chriſtiani<g ref="char:EOLhyphen"/>tie, and no longer to conform themſelves accord<g ref="char:EOLhyphen"/>ing to the faſhion of this world, under the meer name of Chriſtians; nor content themſelves any longer with meer formalities, and in drawing near to God with lip-ſervice onely, whileſt their hearts run after covetouſneſſe, or the vanities of this life, as do the Gentiles; but to live righte<g ref="char:EOLhyphen"/>ouſly, ſoberly, and godly in this preſent world; that ſo their light may ſhine before men, who ſeeing their good works, may glorifie our Father which is in heaven. And as any one ſhall increaſe in neceſſary and uſefull knowledge, I conceive it's his duty to labour the ſtrengthening of others, and to beget the ſame knowledge in them. And ſince no man commeth now with Divine authority and infallible demonſtration and power, to convince men as aforeſaid; let us all lay aſide all peremp<g ref="char:EOLhyphen"/>tory inſiſting upon obſcure and long controverted arguments, all diſtinction of Clergy and Laity, all anger and bitterneſſe, all evill ſpeaking, judging and condemning one the other about difference of opinion, and let our zeal be expreſſed who ſhall be moſt loving and tender-hearted, and who ſhall exceed in doing moſt good each to other.</p>
+                  <p>My aim is ſo far from diſcouaaging any one in making a right uſe of the Scriptures, that I ra<g ref="char:EOLhyphen"/>ther ſhew that all men have a like intereſt in the uſe thereof, and a poſſibility to underſtand them as well and as truly, as thoſe who hitherto would be ſuppoſed to be, by Divine Commiſſion Mini<g ref="char:EOLhyphen"/>ſters
+<pb n="38" facs="tcp:36076:21"/> of Chriſt, or Clergy; to remove which long rooted Errour, is my ſpeciall work, and to make known that any man of what calling or quality ſoever, may lawfully publiſh or propoſe whatſo<g ref="char:EOLhyphen"/>ever he hath conceived from Scripture, to the conſideration of every particular mans underſtand<g ref="char:EOLhyphen"/>ing, which is each mans judge, other judge in theſe matters I finde none; nor can I ſet limits to any mans underſtanding, onely I adviſe, ſince our con<g ref="char:EOLhyphen"/>dition herein is as it is; That all things be duly and ſeriouſly weighed, and that we be fully per<g ref="char:EOLhyphen"/>ſwaded in our own mindes, from an experimentall knowledge of the benefit and uſe of any thing we have a minde to propoſe, or publiſh before we propoſe or publiſh the ſame, and that all things be done without breach of love (a rule eaſie to be underſtood) and without breach of that good or<g ref="char:EOLhyphen"/>der, which in diſcretion and upon mature delibe<g ref="char:EOLhyphen"/>ration may be agreed upon.</p>
+                  <p>Let no man be ſtartled for want of Learning, as fearing he cannot underſtand the Scriptures aright (though he have them in his own mother tongue) becauſe he underſtands not the Originall Languages wherein they were firſt written. Ob<g ref="char:EOLhyphen"/>jections of this Nature proceed from ſuch as would hold captive the unlearned, under the Superſtitious Bond of a Romiſh neceſſity of an infallible Iuterpreter, and dependance upon the Clergy and learned men; but this way of theirs, is palpable evill, it would far better become thoſe that ſay there are many errors in tranſlations, to amend them if they are able; but if they are not
+<pb n="39" facs="tcp:36076:21"/> able, why boaſt they themſelves above others? if they can and will not mend them, it is worſe then if they were unable to mend them: When they have ſaid all they can to ſcarce people from truſting to their own judgements and underſtands of Scripture, by the meer help of Tranſlations, they muſt confeſſe that the moſt skilful'ſt amongſt them, cannot prove they ever have had a ſight of that which properly may be called an Originall, and that they underſtand thoſe things they have but imperfectly; and are as little infallible as any others. For there have alwayes been and ſtill are, more different and oppoſite judgements be<g ref="char:EOLhyphen"/>tween the moſt learned and greateſt Schollers, then between any ſort of men whatſoever; which could not be, if by all their Schollerſhip they could attain to an infallibilitie or certainty of that which they pretend to know. And therefore like true Chriſtians, they ſhould rather rejoyce to ob<g ref="char:EOLhyphen"/>ſerve in plain people, ſo generall a deſire after knowledge in the ſearch of Scripture, ſo great a love to Chriſtian vertue, and encourage them to a faithfull perſeverance therein.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
